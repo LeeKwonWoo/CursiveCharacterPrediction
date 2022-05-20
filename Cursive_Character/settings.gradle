@@ -1,0 +1,2 @@
+rootProject.name = "Cursive_Character"
+include ':app'
