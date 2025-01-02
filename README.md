@@ -8,9 +8,9 @@ CursiveCharacter Dataset Url:
 - Test: https://drive.google.com/file/d/1A51XdsYVchQq-wJTjThYYWlbadT95Ij1/view?usp=sharing
 
 REQUIEREMENT:
-Python version 3.8.0\n
-TensorFlow 2.5.0 library 
-CUDA-Toolkit 11.0 
-virtual device with Android version 9 
+Python version 3.8.0
+TensorFlow 2.5.0 library
+CUDA-Toolkit 11.0
+virtual device with Android version 9
 model’s name Nexus 5X, API 28.
 Application's SDK was 30.
